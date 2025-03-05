@@ -1,0 +1,13 @@
+letters=["a","b","c"]
+letters.insert(2,"f")
+print(letters)
+letters.append("z")
+print(letters)
+letters.remove("z")
+print(letters)
+letters.pop(2)
+print(letters)
+letters.sort()
+print(letters)
+letters.reverse()
+print(letters)
